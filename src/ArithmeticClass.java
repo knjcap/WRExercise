@@ -38,6 +38,6 @@ public class ArithmeticClass {
         int mod =am.moduloNumbers(7, 2);
         System.out.println("7 / 2 = 3, remainder "+ mod);
     }
-///
+
 }
 
